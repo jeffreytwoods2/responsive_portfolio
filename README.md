@@ -3,6 +3,7 @@
 Overview:
 
 A project to build up my portfolio with mobile-first, responsive web design. Includes portfolio and contact information
+Layout will chift according to viewport size, all the way down to the smallest size available w/ the Bootstrap framework (~460px width)
 
 
 Home Page:
